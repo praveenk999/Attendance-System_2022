@@ -1,2 +1,2 @@
-# Attendance-System_2022
-This is a machine learning project done in ai ml course
+# Object Detection
+This is object detector Project which detects an object
